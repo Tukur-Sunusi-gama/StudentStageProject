@@ -1,5 +1,11 @@
+import Login from "./components/login";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <Login />
+    </>
+  );
 }
 
 export default App;
